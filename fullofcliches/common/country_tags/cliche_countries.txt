@@ -1,0 +1,2 @@
+WEI = "countries/Weimar.txt"
+RER = "countries/Rhineland.txt"
