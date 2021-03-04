@@ -1,2 +1,6 @@
 WEI = "countries/Weimar.txt"
 RER = "countries/Rhineland.txt"
+RUS = "countries/Russia.txt"
+CQC = "countries/Chongqing.txt"
+GDA = "countries/Dragon Army.txt"
+JFS = "countries/Jiang.txt"
